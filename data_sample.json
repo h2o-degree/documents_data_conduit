@@ -1,0 +1,60 @@
+{   "post_timestamp":1486403957,
+    "h2o_worker_id":"test_wall_1486403920",  
+    "config_update_timer":86365,  
+        "dataset": {    "000D6F000542FCB3-14557": 
+                            {   "header": 
+                                    {   "serial_number":"000D6F000542FCB3",
+                                        "timestamp":"2017-02-04 20:03:13",
+                                        "gateway_hostname":"joes_green_2",
+                                        "tx_count":14557,
+                                        "data_interval":3600,
+                                        "reset_count":31,
+                                        "unit_code":190,
+                                        "bedroom_count":2.0,
+                                        "bathroom_count":1.0,
+                                        "location_assignment": 
+                                            {   "property_name":"Joes Village Green",
+                                                "building_name":"Kingstop Ave 123",
+                                                "apartment":"4",
+                                                "property_id":528,
+                                                "building_id":3199,
+                                                "apartment_id":50292,
+                                                "unique_id":246654 },
+                                        "meter_type":"submeter",
+                                        "attached_to":"Main Feed Single",
+                                        "commodity":"aqura_water" },
+                                "payload": {    "gallons":35909,
+                                                "events":25737,
+                                                "flow_time":21381 }
+                            }, 
+                       
+                        "000D6F00055C2DE3-7328": 
+                            {   "header": 
+                                    {   "serial_number":"000D6F00055C2DE3",
+                                        "timestamp":"2017-02-04 20:03:30",
+                                        "gateway_hostname":"joes_green_1",
+                                        "tx_count":7328,
+                                        "data_interval":3600,
+                                        "reset_count":20,
+                                        "unit_code":190,
+                                        "bedroom_count":2.0,
+                                        "bathroom_count":1.0,
+                                        "location_assignment": 
+                                            {   "property_name":"Joes Village Green",
+                                                "building_name":"Southside Drive 5203",
+                                                "apartment":"4",
+                                                "property_id":528,
+                                                "building_id":3218,
+                                                "apartment_id":51030,
+                                                "unique_id":253798 
+                                            },
+                                        "meter_type":"submeter",
+                                        "attached_to":"Main Feed Single",
+                                        "commodity":"aqura_water" },
+                                "payload": {    "gallons":14197,
+                                                "events":11472,
+                                                "flow_time":7889 }
+                            }          
+                    }
+}   
+   
